@@ -173,7 +173,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(170, 23);
             this.label1.TabIndex = 9;
-            this.label1.Text = "Turn";
+            this.label1.Text = "Tura";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -186,7 +186,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(75, 23);
             this.label2.TabIndex = 11;
-            this.label2.Text = "Player 1";
+            this.label2.Text = "Jucator 1";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
@@ -199,7 +199,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(75, 23);
             this.label3.TabIndex = 12;
-            this.label3.Text = "Player 2";
+            this.label3.Text = "Jucator 2";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // displayturn

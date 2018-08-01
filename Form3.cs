@@ -239,11 +239,11 @@ namespace WindowsFormsApplication1
         {
             if (turn % 2 != 0)
             {
-                displayturn.Text = "Player 1";
+                displayturn.Text = "Jucător 1";
             }
             else
             {
-                displayturn.Text = "Player 2";
+                displayturn.Text = "Jucător 2";
             }
         }
         public void checkit()
@@ -260,13 +260,13 @@ namespace WindowsFormsApplication1
                     button3.ForeColor = Color.White;
                     if (button1.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
                     }
@@ -286,14 +286,14 @@ namespace WindowsFormsApplication1
                     button6.ForeColor = Color.White;
                     if (button4.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -313,14 +313,14 @@ namespace WindowsFormsApplication1
                     button9.ForeColor = Color.White;
                     if (button7.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -340,14 +340,14 @@ namespace WindowsFormsApplication1
                     button7.ForeColor = Color.White;
                     if (button1.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -367,14 +367,14 @@ namespace WindowsFormsApplication1
                     button8.ForeColor = Color.White;
                     if (button2.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -394,14 +394,14 @@ namespace WindowsFormsApplication1
                     button9.ForeColor = Color.White;
                     if (button3.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -421,14 +421,14 @@ namespace WindowsFormsApplication1
                     button9.ForeColor = Color.White;
                     if (button1.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
@@ -448,14 +448,14 @@ namespace WindowsFormsApplication1
                     button7.ForeColor = Color.White;
                     if (button3.Text == "X")
                     {
-                        MessageBox.Show("Player 1 Wins!");
+                        MessageBox.Show("Jucător 1 câștigă!");
                         player1++;
                         player1score.Text = player1.ToString();
 
                     }
                     else
                     {
-                        MessageBox.Show("Player 2 Wins!");
+                        MessageBox.Show("Jucător 2 câștigă!");
                         player2++;
                         player2score.Text = player2.ToString();
 
